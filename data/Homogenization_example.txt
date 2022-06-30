@@ -1,4 +1,4 @@
-Observator;Genus_species;comments
+Observator;Genus_species;expectation
 Nino;Tyrannaurosus rex;we should not find any matching species in phytool for this taxon
 Nino;Scenedesmus acutus;we should find a species and the name will be updated
 Nino;Fragilaria crotonensis;we should find a species with a name already up to date
